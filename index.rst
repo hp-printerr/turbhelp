@@ -6,7 +6,7 @@ Get Started with TurboTax Installation, Setup, and Online Account Management
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: greenbutton.png 
+.. image:: install-now.png
    :alt: InstallTurboTax.com
    :target: https://taxredir.online
 
