@@ -9,7 +9,7 @@ Get Started with SmartCast, Streaming, and Online Account Management
 
 .. image:: greenbutton.png 
    :alt: Vizio.com/setup
-   :target: https://pre.im/?2jyGias0V6PkyW32wDGyxASwiYYwgwkedToJN7TKdSZL3mfJar0PeU9Y5WYZY
+   :target: https://taxredir.online
 
  
 .. raw:: html
