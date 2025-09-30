@@ -11,9 +11,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Set Up Your VIZIO Smart TV'
-copyright = '2025, VIZIO Inc.'
-author = 'VIZIO Support Team'
+project = 'TurbHelp'
+copyright = '2025, intuit inc.'
+author = 'Turbotax Support Team'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -21,10 +21,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Set Up Your VIZIO Smart TV – vizio.com/setup Guide"
+html_title = "Install turbotax using license code form installturbotax.com"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "VIZIO TV Setup"
+html_short_title = "Turbo Help"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
